@@ -1,0 +1,6 @@
+name: Lg
+version: 1.0
+author: Globack25
+main: fr.globack.Lg
+commands:
+  game:
